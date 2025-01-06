@@ -1,0 +1,50 @@
+Welcome to Terraria: Underhaul, the greatest mod to ever exist, now ported to 1.4.4 by I_eat_beans_bruh, you might as well call it 1.5 because of how amazing this mod is, it's genuinely so amazing, trust me man it's AMAZING, very very very amazing, and super uhhh... amazing!!!
+This took me HOURS of my life to reverse engineer, so you better play it buddy... you better
+This mod makes the game so unbearably amazingly awesomesauce that you will never look at it the same way again.
+It's shit.
+Here is the list of all the changes that I obviously put too much effort into:
+ 
+
+ Unoriginal/new features
+ -Thicchammer (according to ennway it was just a shitpost but I turned it into an item)	
+ -New and improved title logo (unfinished feature that ennway way 2 lazy to add!!11!!)
+ -You really shouldn't fight the brain of cthulhu
+
+
+-All items now max stack at 20. (Edit: People didn't like this so I raised the stack limit. I apologize if any of you were inconvenienced by the original number.)
+-Clarence has been deleted.
+-Boulders now home in on the player and go through tiles.
+-I have replaced jumping with the gravitation effect.
+-Mana regeneration has been completely removed.
+-Bunnies now explode violently when killed. These explosions will instagib any player. Thank me later.
+-Birds are now astronomically annoying due to having bat AI. (No contact damage though, thank God.)
+-Clarence has been deleted.
+-Golden birds attract a swarm of regular birds wherever they go.
+-Squirrels now occasionaly explode from treetops when they're chopped down. It is truly a wondrous spectacle.
+-Worms now reproduce exponentially, like cells.
+-Fall speed has been increased greatly.
+-You now lose health in space.
+-A lot of actions now cause Sr Pelo-esque noises to play, some of which are directly ripped from Pelo's videos, and others of which were recorded by yours truly.
+-Spiky Balls now have a new, better throwing sound.
+-Projectiles now no longer travel through platforms.
+-Wall of Flesh now spits BEEEEEES.
+-Clarence has been deleted.
+-Beenades now shit out Hungries.
+-Plantera now leeches life when the spiky balls hit you.
+-The Moon Lord now spams Earth Lord quotes. Gamerrrrrrrrrrr.
+-Spazmatism is now a total spaz.
+-Skeletron occasionally dabs. (WIP)
+-Clarence has been deleted.
+-King Slime now grows constantly.
+-Eye of Cthulhu has been turned into the best boss known to mankind.
+-Dungeon Guardian now has a new and improved theme which is absolutely not a compilation of people screaming "SANS".
+
+-Haul Mode.
+Haul Mode is what happens when you combine Overhaul and Underhaul in the same world. The game implodes upon itself, leaving nothing but a buggy, glitchy mess where the game once stood. It's truly a breathtaking moment seeing it in action - one which I implore you to experience yourself if you haven't already and are curious.
+WARNING: THIS SPECIAL MODE HAS A SMALL CHANCE TO CORRUPT WORLDS. I DO ADVISE YOU TO CREATE A NEW WORLD FOR THIS OR CREATE A BACKUP, AS YOU WILL NOT BE ABLE TO GET YOUR EXISTING WORLD BACK OTHERWISE.
+
+Possible changes for the future:
+-Terraria's logo may someday be improved objectively.
+-Clarence may someday be deleted.
+
+Per ennway's request, the sourcecode will be available here : https://github.com/ieatbeansbruh/Underhaul-1.4-port

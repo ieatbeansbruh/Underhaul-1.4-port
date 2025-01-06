@@ -1,0 +1,15 @@
+Mods: {
+	QuestionableIdeas: {
+		ProjectileName.TheHungryProj: The Hungry
+		ItemName.Thicchammer: Thicc hammer
+	}
+}
+
+Projectiles.TheHungryProj.DisplayName: The Hungry Proj
+
+Items: {
+	Thicchammer: {
+		Tooltip: It's so... thicc
+		DisplayName: Thicc Hammer
+	}
+}
