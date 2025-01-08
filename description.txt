@@ -6,7 +6,7 @@ Here is the list of all the changes that I obviously put too much effort into:
  
 
  Unoriginal/new features
- -Thicchammer (according to ennway it was just a shitpost but I turned it into an item)	
+ -Thicchammer (according to ennway it was just a ####post but I turned it into an item)	
  -New and improved title logo (unfinished feature that ennway way 2 lazy to add!!11!!)
  -You really shouldn't fight the brain of cthulhu
  -CBF detection (triggered by using item with use time of 1)

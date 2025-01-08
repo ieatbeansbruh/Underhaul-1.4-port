@@ -45,7 +45,7 @@ namespace QuestionableIdeas
 
         public override void OnKill(NPC npc)
         {
-            if (npc.type == NPCID.GoblinTinkerer)
+            if (npc.type == NPCID.Bunny)
             {
                 IEntitySource source = npc.GetSource_Death();
 
@@ -116,7 +116,7 @@ namespace QuestionableIdeas
                 Main.NewText("THIS IS MY LAST ATTACK -- MY TRUMP CARD AS LIBTARDS WOULD SAY. SURRENDER NOW OR FACE MY GAMER DAB!", (byte)Main.DiscoR, (byte)Main.DiscoG, (byte)Main.DiscoB);
             }
 
-            if (npc.type == NPCID.SkeletronHead)
+            if (npc.type == NPCID.KingSlime)
             {
                 customAI[0]++;
                 npc.scale += (float)customAI[0] * 0.001f;
