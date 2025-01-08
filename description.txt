@@ -9,6 +9,7 @@ Here is the list of all the changes that I obviously put too much effort into:
  -Thicchammer (according to ennway it was just a shitpost but I turned it into an item)	
  -New and improved title logo (unfinished feature that ennway way 2 lazy to add!!11!!)
  -You really shouldn't fight the brain of cthulhu
+ -CBF detection (triggered by using item with use time of 1)
 
 
 -All items now max stack at 20. (Edit: People didn't like this so I raised the stack limit. I apologize if any of you were inconvenienced by the original number.)

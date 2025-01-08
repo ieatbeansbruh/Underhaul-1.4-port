@@ -31,7 +31,7 @@ public class QuestionableTile : GlobalTile
     {
       
         if (!ModLoader.TryGetMod("TerrariaOverhaul", out _)
-            && Main.tile[i, j].TileType == TileID.Stone && !Main.tile[i, j - 1].HasTile && Main.rand.NextBool(8))
+            && Main.tile[i, j].TileType == TileID.Trees && !Main.tile[i, j - 1].HasTile && Main.rand.NextBool(8))
         {
          
             IEntitySource source = new EntitySource_TileBreak(i, j);
@@ -40,7 +40,7 @@ public class QuestionableTile : GlobalTile
             for (int y = -7; y <= 7; y++)
             {
               
-                int gamermomemt = NPC.NewNPC(source, i * 16, j * 16, NPCID.Bunny);
+                int gamermomemt = NPC.NewNPC(source, i * 16, j * 16, NPCID.Squirrel);
                 Main.npc[gamermomemt].velocity.X = y;
             }
         }
